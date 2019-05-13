@@ -9,3 +9,4 @@ def multi(num1,num2):
 def raiz(num):
     return sqrt(num)
 print('hello')
+print('bye')
