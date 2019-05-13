@@ -10,3 +10,5 @@ def raiz(num):
     return sqrt(num)
 print('hello')
 print('bye')
+def pp():
+    return 'pepe'
